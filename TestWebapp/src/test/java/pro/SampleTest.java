@@ -17,7 +17,7 @@ public class SampleTest {
 	}
 	@Test
 	public void test3() {
-		assertEquals(10, 5*10);
+		assertEquals(27, 3*9);
 	}
 
 
