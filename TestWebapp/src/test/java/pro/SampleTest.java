@@ -15,6 +15,10 @@ public class SampleTest {
 	public void test2() {
 		assertEquals(10, 5*2);
 	}
+	@Test
+	public void test3() {
+		assertEquals(10, 5*10);
+	}
 
 
 }
